@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: groovefx\n"
+"POT-Creation-Date: 2017-03-29 11:39+0200\n"
+"PO-Revision-Date: 2017-03-29 11:40+0200\n"
+"Last-Translator: \n"
+"Language-Team: netfxs <support@groovefx.fr>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ../includes\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: class-wc-groovefx-back.php\n"
+"X-Poedit-SearchPath-1: class-wc-groovefx-front.php\n"
+
+#: class-wc-groovefx-back.php:79
+msgid "Settings"
+msgstr "Paramètres"
+
+#: class-wc-groovefx-back.php:80
+msgid "FAQ"
+msgstr "FAQ"
+
+#: class-wc-groovefx-back.php:81
+msgid "Support"
+msgstr "Support"
+
+#: class-wc-groovefx-back.php:133
+msgid "express"
+msgstr "express"
+
+#: class-wc-groovefx-back.php:134
+msgid "creative"
+msgstr "creation"
+
+#: class-wc-groovefx-back.php:135
+msgid "designer"
+msgstr "designer"
+
+#: class-wc-groovefx-back.php:136
+msgid "PopArt andy 4 photos portrait"
+msgstr "PopArt andy 4 photos portrait"
+
+#: class-wc-groovefx-back.php:137
+msgid "PopArt andy 4 photos landscape"
+msgstr "PopArt andy 4 photos paysage"
+
+#: class-wc-groovefx-back.php:138
+msgid "modern PopArt 4 photos portrait"
+msgstr "modern PopArt 4 photos portrait"
+
+#: class-wc-groovefx-back.php:139
+msgid "modern PopArt 4 photos landscape"
+msgstr "modern PopArt 4 photos paysage"
+
+#: class-wc-groovefx-back.php:152
+msgid ""
+"Please update WooCommerce to the latest version! GrooveFX only works with "
+"version 2.1 or newer."
+msgstr ""
+"Merci de mettre WooCommerce à jour. GrooveFX ne fonctionne qu'à partir de la "
+"version 2.1 ou supérieure."
+
+#: class-wc-groovefx-back.php:183 class-wc-groovefx-back.php:334
+msgid "GrooveFX product"
+msgstr "GrooveFX produit"
+
+#: class-wc-groovefx-back.php:193 class-wc-groovefx-back.php:342
+msgid "GrooveFX feature"
+msgstr "GrooveFX effet"
+
+#: class-wc-groovefx-back.php:209 class-wc-groovefx-back.php:356
+msgid "Width"
+msgstr "Largeur"
+
+#: class-wc-groovefx-back.php:210 class-wc-groovefx-back.php:357
+msgid "Width of your object in cm (rounded up) without border"
+msgstr "Largeur faciale de votre produit en cm (arrondi supérieur)"
+
+#: class-wc-groovefx-back.php:218 class-wc-groovefx-back.php:365
+msgid "Height"
+msgstr "Hauteur"
+
+#: class-wc-groovefx-back.php:219 class-wc-groovefx-back.php:366
+msgid "Height of your object in cm (rounded up) without border"
+msgstr "Hauteur faciale de votre produit en cm (arrondi supérieur)"
+
+#: class-wc-groovefx-back.php:232 class-wc-groovefx-back.php:378
+msgid "If your product have different colors. Eg : Tshirt"
+msgstr "Si votre produit peut avoir plusieurs couleurs. Ex : Tshirt."
+
+#: class-wc-groovefx-back.php:233 class-wc-groovefx-back.php:379
+msgid ""
+"Type your colors, hexadecimal without # separated by comma. Eg : 564586,"
+"a1a2a3,FFFFF"
+msgstr ""
+"Indiquez vos codes couleurs, en hexadecimal sans # séparés par une virgule. "
+"Ex : 564586,a1a2a3,FFFFF"
+
+#: class-wc-groovefx-back.php:239 class-wc-groovefx-back.php:384
+msgid "List of colors"
+msgstr "Liste des couleurs"
+
+#: class-wc-groovefx-back.php:494
+msgid "Get HD image"
+msgstr "Récupérer l'image HD"
+
+#: class-wc-groovefx-back.php:496
+msgid "You need to have an account with groovefx to get your HD image"
+msgstr ""
+"Vous devez avoir un contrat avec groovefx pour récuperer votre image HD"
+
+#: class-wc-groovefx-back.php:544
+msgid "GROOVEFX API KEY"
+msgstr "Clé API GROOVEFX "
+
+#: class-wc-groovefx-back.php:547
+msgid "Enter your GrooveFX API KEY"
+msgstr "Entrez votre clé API GrooveFX"
+
+#: class-wc-groovefx-back.php:551
+msgid "GROOVEFX CLIENT NAME"
+msgstr "GROOVEFX NOM UTILISATEUR"
+
+#: class-wc-groovefx-back.php:553
+msgid "Enter your GrooveFX client name"
+msgstr "Entrez votre nom de utilisateur GrooveFX"
+
+#: class-wc-groovefx-back.php:557
+msgid "Update products list"
+msgstr "Mettre à jour la liste des produits"
+
+#: class-wc-groovefx-back.php:561 class-wc-groovefx-back.php:601
+msgid "For more information go to groovefx.fr"
+msgstr "Pour plus d'informations, allez sur groovefx.fr"
+
+#: class-wc-groovefx-back.php:576
+msgid ""
+"<h3>This Woocommerce extension is just a bridge between the famous SAAS "
+"application GROOVEFX and your website.</h3><br>\n"
+"\n"
+"<H2>START FIRST</H2>\n"
+"You can try GrooveFX without account, but also without HD output:\n"
+"To link a Woocommerce product to a GrooveFX product, just go to the "
+"Woocommerce product page you want to get customizable.<br>\n"
+"For simple products, just select a product in the droplist (GrooveFX tab)."
+"<br>\n"
+"For the Woocommerce variable products, each variation contain this droplist."
+"<br><br>\n"
+"You'll have 5 possible inputs: The GrooveFX product, the GrooveFX feature, "
+"the widh and the height (option if the product have variable size, see "
+"catalog),\n"
+"and colors if your products need to have a choice of colors (like tshirt.)."
+"<br>\n"
+"Once your client bought a product customized with GrooveFX, you will recover "
+"the ready-to-print file in the order page, within the 'GET HD IMAGE' "
+"button.\n"
+"<br><br><br>\n"
+"<H2>WHY ARE THERE ONLY 3 PRODUCTS IN THE DROPLIST?</H2>\n"
+"You will first need to refresh the list, clicking on 'UPDATE PRODUCTS LIST' "
+"on the left side of this page.\n"
+"<br><br><br>\n"
+"<H2>CAN I CREATE MY OWN PRODUCTS?</H2>\n"
+"Nope: if you don't find the right product you need in our 2500+ products "
+"list, you can contact us in order to add it in our catalog FOR FREE!\n"
+"<a href='http://groovefx.fr/cat/index_en.php' target='_blank' "
+"title='GrooveFX Product Catalog'>GrooveFX Product Catalog</a>\n"
+"<br><br><br>\n"
+"<H2>WILL I BE ABLE TO CHANGE ANYTHING IN MY PRODUCT DESIGNER FRONTPAGE?</"
+"H2>\n"
+"We can add fonts, or even your own cliparts on your account, FOR FREE. We "
+"can also manage little changes in your product designer frontpage (colors, "
+"logo...)\n"
+"<br><br><br>\n"
+"<H2>OK, I REALLY LOVE YOUR APPLICATION. SO WHAT'S NEXT?</H2>\n"
+"The next step is simple: just go on <a href='http://www.groovefx.fr/EN' "
+"target='_blank' title='GrooveFX WebSite'>GrooveFX website</a> and click on "
+"'START NOW'"
+msgstr ""
+"<h3>Ce Plugin est une passerelle entre votre site et la populaire "
+"application GROOVEFX</h3><br>\n"
+"\n"
+"<H2>COMMENT DEMARRER ?</H2>\n"
+"Pour associer un produit Woocommerce à un produit GrooveFX, allez simplement "
+"dans la page produits de Woocommerce.<br>\n"
+"Pour les produits simples, sélectionnez dans la liste déroulante le produit "
+"corespondant à celui que vous vendez (Onglet GrooveFX).Pour les variations, "
+"chaque variation possède sa propre liste.<br><br>\n"
+"Vous aurez 5 champs possibles : le produit GrooveFX, la fonctionnalité "
+"associée, la hauteur et la largeur (optionnels si votre produit est à taille "
+"variable),\n"
+"et couleurs si votre produit peut être de plusieurs coloris (comme les "
+"tshirt.).<br>\n"
+"Une fois la commande de votre client passée, vous n'avez qu'a récupérer "
+"l'image prête à imprimer, au bon format, en cliquant sur le bouton "
+"'Récupérer l'image HD' dans le bon de commande.\n"
+"<br><br><br>\n"
+"<H2>POURQUOI N'Y A T-IL QUE 3 PRODUITS DANS LA LISTE ?</H2>\n"
+"Dès le départ, vous devrez rafraichir la liste en cliquant sur 'Mettre à "
+"jour la liste des produits' à gauche de cette page.\n"
+"<br><br><br>\n"
+"<H2>PUIS-JE CREER MES PROPRES PRODUITS ?</H2>\n"
+"Non, le but est que vous n'ayez rien à faire; si vous ne trouvez pas votre "
+"produit dans notre catalogue de 2500 références, alors demandez-nous, nous "
+"créérons ce produit gratuitement.\n"
+"<br><br><br>\n"
+"<H2>POURRAIS-JE EFFECTUER DES MODIFICATIONS SUR MON INTERFACE ?</H2>\n"
+"Nous pouvons modifier les fontes, les cliparts, ou même modifier certains "
+"éléments de l'interface (couleurs, logo...) pour vous, gratuitement.\n"
+"<br><br><br>\n"
+"<H2>J'ADORE CETTE APPLICATION, QUE DOIS-JE FAIRE ?</H2>\n"
+"C'est simple, rendez-vous sur http://www.groovefx.fr/ et cliquez sur "
+"COMMENCER MAINTENANT"
+
+#: class-wc-groovefx-back.php:700
+msgid ""
+"Impossible to connect to groovefx server. Please retry later or contact us "
+"at support@groovefx.fr"
+msgstr ""
+"Connexion au serveur groovefx.fr impossible. Veuillez réeassayez plus tard "
+"ou contactez-nous : support@groovefx.fr"
+
+#: class-wc-groovefx-front.php:164
+msgid "Product color"
+msgstr "Couleur du produit"
+
+#: class-wc-groovefx-front.php:168
+msgid "See your customization"
+msgstr "Regardez votre personnalisation"
+
+#: class-wc-groovefx-front.php:189
+msgid "View Product"
+msgstr "Voir le produit"
+
+#: class-wc-groovefx-front.php:192
+msgid "Add to cart"
+msgstr "Ajouter au panier"
+
+#: class-wc-groovefx-front.php:215
+msgid "Do you want to make a new customization from scratch ?"
+msgstr "Souhaitez-vous effectuer une nouvelle personnalisation ?"
+
+#: class-wc-groovefx-front.php:222 class-wc-groovefx-front.php:248
+msgid "Customize"
+msgstr "Personnalisez"
+
+#~ msgid ""
+#~ "<h3>This Woocommerce extension is just a bridge between the famous SAAS "
+#~ "application GROOVEFX and your website.</h3><br>\n"
+#~ "\n"
+#~ "<H2>HOW TO START?</H2>\n"
+#~ "To link a Woocommerce product to a GrooveFX product, just go to the "
+#~ "Woocommerce products page.<br>\n"
+#~ "For simple products, just select a product in the droplist (GrooveFX tab)."
+#~ "For the Woocommerce variable products, each variation contain this "
+#~ "droplist.<br><br>\n"
+#~ "You'll have 5 possible inputs: The GrooveFX product, the GrooveFX "
+#~ "feature, the widh and the height (option if the product have variable "
+#~ "size),\n"
+#~ "and colors if your products need to have a choice of colors (like "
+#~ "tshirt.).<br>\n"
+#~ "Once your client bought a product customized with GrooveFX, you will "
+#~ "recover the ready-to-print file in the order page, within the 'GET HD "
+#~ "IMAGE' button.\n"
+#~ "\n"
+#~ "<H2>WHY ARE THERE ONLY 3 PRODUCTS IN THE DROPLIST?</H2>\n"
+#~ "You will first need to refresh the list, clicking on 'UPDATE PRODUCTS "
+#~ "LIST' on the left side of this page.\n"
+#~ "\n"
+#~ "<H2>CAN I CREATE MY OWN PRODUCTS?</H2>\n"
+#~ "Nope: if you don't find the right product you need in our 2500+ products "
+#~ "list, you can contact us in order to add it in our catalog FOR FREE!\n"
+#~ "\n"
+#~ "<H2>WILL I BE ABLE TO CHANGE ANYTHING IN MY PRODUCT DESIGNER FRONTPAGE?</"
+#~ "H2>\n"
+#~ "We can add fonts, or even your own cliparts on your account, FOR FREE. We "
+#~ "can also manage little changes in your product designer frontpage "
+#~ "(colors, logo...)\n"
+#~ "\n"
+#~ "<H2>OK, I REALLY LOVE YOUR APPLICATION. SO WHAT'S NEXT?</H2>\n"
+#~ "The next step is simple: just go on http://www.groovefx.fr/en/ and click "
+#~ "on 'START NOW'"
+#~ msgstr ""
+#~ "<h3>Ce Plugin est une passerelle entre votre site et la populaire "
+#~ "application GROOVEFX</h3><br>\n"
+#~ "\n"
+#~ "<H2>COMMENT DEMARRER ?</H2>\n"
+#~ "Pour associer un produit Woocommerce à un produit GrooveFX, allez "
+#~ "simplement dans la page produits de Woocommerce.<br>\n"
+#~ "Pour les produits simples, sélectionnez dans la liste déroulante le "
+#~ "produit corespondant à celui que vous vendez (Onglet GrooveFX).Pour les "
+#~ "variations, chaque variation possède sa propre liste.<br><br>\n"
+#~ "Vous aurez 5 champs possibles : le produit GrooveFX, la fonctionnalité "
+#~ "associée, la hauteur et la largeur (optionnels si votre produit est à "
+#~ "taille variable),\n"
+#~ "et couleurs si votre produit peut être de plusieurs coloris (comme les "
+#~ "tshirt.).<br>\n"
+#~ "Une fois la commande de votre client passée, vous n'avez qu'a récupérer "
+#~ "l'image prête à imprimer, au bon format, en cliquant sur le bouton "
+#~ "'Récupérer l'image HD' dans le bon de commande.\n"
+#~ "\n"
+#~ "<H2>POURQUOI N'Y A T-IL QUE 3 PRODUITS DANS LA LISTE ?</H2>\n"
+#~ "Dès le départ, vous devrez rafraichir la liste en cliquant sur 'Mettre à "
+#~ "jour la liste des produits' à gauche de cette page.\n"
+#~ "\n"
+#~ "<H2>PUIS-JE CREER MES PROPRES PRODUITS ?</H2>\n"
+#~ "Non, le but est que vous n'ayez rien à faire; si vous ne trouvez pas "
+#~ "votre produit dans notre catalogue de 2500 références, alors demandez-"
+#~ "nous, nous créérons ce produit gratuitement.\n"
+#~ "\n"
+#~ "<H2>POURRAIS-JE EFFECTUER DES MODIFICATIONS SUR MON INTERFACE ?</H2>\n"
+#~ "Nous pouvons modifier les fontes, les cliparts, ou même modifier certains "
+#~ "éléments de l'interface (couleurs, logo...) pour vous, gratuitement.\n"
+#~ "\n"
+#~ "<H2>J'ADORE CETTE APPLICATION, QUE DOIS-JE FAIRE ?</H2>\n"
+#~ "C'est simple, rendez-vous sur http://www.groovefx.fr/ et cliquez sur "
+#~ "COMMENCER MAINTENANT"
+
+#~ msgid "API GROOVEFX"
+#~ msgstr "API GROOVEFX"
+
+#~ msgid "Enter your GrooveFX KEY"
+#~ msgstr "Entrez votre clé API GROOVEFX"
+
+#~ msgid "Enter your client name"
+#~ msgstr "Entrez votre nom de client GROOVEFX"
+
+#~ msgid "If your product have different colors. Ex : Tshirt"
+#~ msgstr "Si votre produit a plusieurs couleurs. Ex : Tshirt..."
+
+#~ msgid " Enter your GrooveFX KEY"
+#~ msgstr "Entrez votre clé GROOVEFX"

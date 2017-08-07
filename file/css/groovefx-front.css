@@ -1,0 +1,24 @@
+.groovefx_well {
+	background-color:#FFFFFF;
+	display:none;
+	padding:0;
+	margin:0;
+	width:100vw;
+	height:100vh;
+	-webkit-box-sizing : border-box;
+	-moz-box-sizing : border-box;
+	box-sizing : border-box;
+	max-width:1200px;
+	overflow:hidden;
+} 
+.groovefx_well_ss_ww {
+	background-color:#FFFFFF;
+	display:none;
+	padding:0;
+	margin:0;
+	-webkit-box-sizing : border-box;
+	-moz-box-sizing : border-box;
+	box-sizing : border-box;
+	max-width:1200px;
+	overflow:hidden;
+} 
